@@ -8,9 +8,6 @@ import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-/**
- * Created by Katerina on 08.11.2016.
- */
 public class EditNoteDialog extends CommonDialog {
 
     public EditNoteDialog(final JFrame owner, DayCollection model, String prevNote, KeyDateObject key, String dayTime, TablePanel tablePanel) {

@@ -12,4 +12,6 @@ public class DayCollection extends HashMap<KeyDateObject, TimeTableModel>{
 
     public DayCollection() {
     }
+
+
 }

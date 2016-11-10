@@ -8,9 +8,6 @@ import javax.swing.JTable;
 import javax.swing.table.DefaultTableCellRenderer;
 import java.awt.*;
 
-/**
- * Created by Katerina on 27.09.2016.
- */
 public class TablePanel extends JPanel {
     private DateInfPanel dateInfPanel = new DateInfPanel();
 

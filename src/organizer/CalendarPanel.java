@@ -5,28 +5,13 @@ import javax.swing.table.DefaultTableModel;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.text.DateFormat;
-import java.text.SimpleDateFormat;
 import java.util.Calendar;
-import java.util.Date;
 import java.util.GregorianCalendar;
 import java.util.Locale;
-import javax.swing.JFrame;
 import javax.swing.JScrollPane;
 import javax.swing.JTable;
-import javax.swing.ListSelectionModel;
-import javax.swing.event.ListSelectionEvent;
-import javax.swing.event.ListSelectionListener;
-import javax.swing.event.TableModelEvent;
-import javax.swing.event.TableModelListener;
 import javax.swing.table.TableColumnModel;
-import javax.swing.table.TableModel;
 
-
-
-/**
- * Created by Katerina on 02.10.2016.
- */
 public class CalendarPanel  extends JPanel{
     DefaultTableModel model;
     Calendar calendar = new GregorianCalendar();
@@ -98,7 +83,6 @@ public class CalendarPanel  extends JPanel{
             model.setRowCount(0);
             model.setRowCount(weeks + 1);
 
-            //calendarTable.setSelectionMode(ListSelectionModel.SINGLE_SELECTION);
             calendarTable.setRowSelectionAllowed(true);
             calendarTable.setColumnSelectionAllowed(true);
             int dayIndex = startDay - 1;
@@ -112,9 +96,10 @@ public class CalendarPanel  extends JPanel{
     {
         KeyDateObject currentDate = new KeyDateObject();
         try{
-        currentDate.setDay(model.getValueAt(calendarTable.getSelectedRow(), calendarTable.getSelectedColumn()));
+        currentDate.setDay(model.getValueAt(calendarTable.getSelectedRow(), calendarTable.getSelectedColumn()).toString());
         currentDate.setMonth(monthText);
-        currentDate.setYear(year);} catch (Exception e){
+        currentDate.setYear(year);
+        } catch (Exception e){
         };
 
         return currentDate;

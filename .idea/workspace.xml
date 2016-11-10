@@ -2,7 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ceb49c1d-348f-4f4a-8932-ee774045e5e4" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/OrganizerLab/organizer/AddNoteListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/organizer/AddNoteListener.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/OrganizerLab/organizer/AddNoteDialog$1.class" afterPath="$PROJECT_DIR$/out/production/OrganizerLab/organizer/AddNoteDialog$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/OrganizerLab/organizer/AddNoteDialog.class" afterPath="$PROJECT_DIR$/out/production/OrganizerLab/organizer/AddNoteDialog.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/OrganizerLab/organizer/ButtonPanel.class" afterPath="$PROJECT_DIR$/out/production/OrganizerLab/organizer/ButtonPanel.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/OrganizerLab/organizer/CalendarPanel.class" afterPath="$PROJECT_DIR$/out/production/OrganizerLab/organizer/CalendarPanel.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/OrganizerLab/organizer/MainOrganizerFrame$1.class" afterPath="$PROJECT_DIR$/out/production/OrganizerLab/organizer/MainOrganizerFrame$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/OrganizerLab/organizer/MainOrganizerFrame$2.class" afterPath="$PROJECT_DIR$/out/production/OrganizerLab/organizer/MainOrganizerFrame$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/OrganizerLab/organizer/MainOrganizerFrame$3.class" afterPath="$PROJECT_DIR$/out/production/OrganizerLab/organizer/MainOrganizerFrame$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/OrganizerLab/organizer/MainOrganizerFrame$4.class" afterPath="$PROJECT_DIR$/out/production/OrganizerLab/organizer/MainOrganizerFrame$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/OrganizerLab/organizer/MainOrganizerFrame$5.class" afterPath="$PROJECT_DIR$/out/production/OrganizerLab/organizer/MainOrganizerFrame$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/OrganizerLab/organizer/MainOrganizerFrame.class" afterPath="$PROJECT_DIR$/out/production/OrganizerLab/organizer/MainOrganizerFrame.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/OrganizerLab/organizer/model/TimeTableModel.class" afterPath="$PROJECT_DIR$/out/production/OrganizerLab/organizer/model/TimeTableModel.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/organizer/AddNoteDialog.java" afterPath="$PROJECT_DIR$/src/organizer/AddNoteDialog.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/organizer/ButtonPanel.java" afterPath="$PROJECT_DIR$/src/organizer/ButtonPanel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/organizer/CalendarInfPanel.java" afterPath="$PROJECT_DIR$/src/organizer/CalendarInfPanel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/organizer/CalendarPanel.java" afterPath="$PROJECT_DIR$/src/organizer/CalendarPanel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/organizer/CommonDialog.java" afterPath="$PROJECT_DIR$/src/organizer/CommonDialog.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/organizer/DateInfPanel.java" afterPath="$PROJECT_DIR$/src/organizer/DateInfPanel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/organizer/EditNoteDialog.java" afterPath="$PROJECT_DIR$/src/organizer/EditNoteDialog.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/organizer/KeyDateObject.java" afterPath="$PROJECT_DIR$/src/organizer/KeyDateObject.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/organizer/MainOrganizerFrame.java" afterPath="$PROJECT_DIR$/src/organizer/MainOrganizerFrame.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/organizer/TablePanel.java" afterPath="$PROJECT_DIR$/src/organizer/TablePanel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/organizer/model/DayCollection.java" afterPath="$PROJECT_DIR$/src/organizer/model/DayCollection.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/organizer/model/TimeTableModel.java" afterPath="$PROJECT_DIR$/src/organizer/model/TimeTableModel.java" />
     </list>
     <ignored path="OrganizerLab.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,22 +52,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="OrganizerLab.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/organizer/OrganizerLab.java">
+      <file leaf-file-name="CalendarPanel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/organizer/CalendarPanel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TablePanel.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/organizer/TablePanel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1513">
-              <caret line="95" column="29" selection-start-line="95" selection-start-column="29" selection-end-line="95" selection-end-column="29" />
-              <folding />
+            <state relative-caret-position="1428">
+              <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -50,48 +67,32 @@
       <file leaf-file-name="CalendarInfPanel.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/organizer/CalendarInfPanel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="20" column="60" selection-start-line="20" selection-start-column="60" selection-end-line="20" selection-end-column="60" />
-              <folding />
+            <state relative-caret-position="34">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CalendarPanel.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/organizer/CalendarPanel.java">
+      <file leaf-file-name="AddNoteDialog.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/organizer/AddNoteDialog.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1632">
-              <caret line="116" column="42" selection-start-line="116" selection-start-column="42" selection-end-line="116" selection-end-column="42" />
-              <folding />
+            <state relative-caret-position="357">
+              <caret line="21" column="63" selection-start-line="21" selection-start-column="63" selection-end-line="21" selection-end-column="63" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TimeTableModel.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/organizer/model/TimeTableModel.java">
+      <file leaf-file-name="ButtonPanel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/organizer/ButtonPanel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1581">
-              <caret line="106" column="1" selection-start-line="106" selection-start-column="1" selection-end-line="106" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DateInfPanel.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/organizer/DateInfPanel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EditNoteDialog.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/organizer/EditNoteDialog.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+            <state relative-caret-position="340">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -102,8 +103,8 @@
       <file leaf-file-name="MainOrganizerFrame.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/organizer/MainOrganizerFrame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="136">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -111,12 +112,46 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="DayCollection.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/organizer/model/DayCollection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="KeyDateObject.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/organizer/KeyDateObject.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EditNoteDialog.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/organizer/EditNoteDialog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DateInfPanel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/organizer/DateInfPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-6">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -124,8 +159,8 @@
       <file leaf-file-name="CommonDialog.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/organizer/CommonDialog.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="38" column="35" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
+            <state relative-caret-position="136">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -160,23 +195,28 @@
         <option value="$PROJECT_DIR$/src/organizer/NoteTimeModel.java" />
         <option value="$PROJECT_DIR$/src/organizer/TimeTableModel.java" />
         <option value="$PROJECT_DIR$/src/organizer/model/NoteModel.java" />
-        <option value="$PROJECT_DIR$/src/organizer/DateInfPanel.java" />
         <option value="$PROJECT_DIR$/src/organizer/model/NoteTimeModel.java" />
         <option value="$PROJECT_DIR$/src/organizer/OrganizerLab.java" />
-        <option value="$PROJECT_DIR$/src/organizer/KeyDateObject.java" />
-        <option value="$PROJECT_DIR$/src/organizer/model/DayCollection.java" />
-        <option value="$PROJECT_DIR$/src/organizer/CalendarPanel.java" />
         <option value="$PROJECT_DIR$/src/organizer/model/EditNoteDialog.java" />
         <option value="$PROJECT_DIR$/src/organizer/ActionEvent.java" />
         <option value="$PROJECT_DIR$/src/organizer/AddNoteListener.java" />
-        <option value="$PROJECT_DIR$/src/organizer/AddNoteDialog.java" />
-        <option value="$PROJECT_DIR$/src/organizer/ButtonPanel.java" />
-        <option value="$PROJECT_DIR$/src/organizer/CalendarInfPanel.java" />
-        <option value="$PROJECT_DIR$/src/organizer/EditNoteDialog.java" />
+        <option value="$PROJECT_DIR$/src/organizer/model/DayCollection.java" />
         <option value="$PROJECT_DIR$/src/organizer/model/TimeTableModel.java" />
+        <option value="G:/c.xml" />
+        <option value="G:/two in day.xml" />
+        <option value="G:/vd.xml" />
         <option value="$PROJECT_DIR$/src/organizer/TablePanel.java" />
-        <option value="$PROJECT_DIR$/src/organizer/CommonDialog.java" />
+        <option value="$PROJECT_DIR$/src/organizer/SaveFileListener.java" />
+        <option value="$PROJECT_DIR$/src/organizer/OpenFileListener.java" />
         <option value="$PROJECT_DIR$/src/organizer/MainOrganizerFrame.java" />
+        <option value="$PROJECT_DIR$/src/organizer/KeyDateObject.java" />
+        <option value="$PROJECT_DIR$/src/organizer/EditNoteDialog.java" />
+        <option value="$PROJECT_DIR$/src/organizer/DateInfPanel.java" />
+        <option value="$PROJECT_DIR$/src/organizer/CommonDialog.java" />
+        <option value="$PROJECT_DIR$/src/organizer/CalendarPanel.java" />
+        <option value="$PROJECT_DIR$/src/organizer/CalendarInfPanel.java" />
+        <option value="$PROJECT_DIR$/src/organizer/ButtonPanel.java" />
+        <option value="$PROJECT_DIR$/src/organizer/AddNoteDialog.java" />
       </list>
     </option>
   </component>
@@ -211,9 +251,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -250,37 +287,18 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OrganizerLab" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OrganizerLab" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="organizer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="model" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../NewTryOrganizer/OrganizerLab" />
+    <property name="last_opened_file_path" value="G:/vd.xml" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -581,7 +599,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2980333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30711043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24886535" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0030349013" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -595,32 +613,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32820514" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33862433" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.006837607" sideWeight="0.5060514" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35555556" sideWeight="0.49394855" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.006807867" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29198185" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962063" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0030349013" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24444444" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -635,7 +627,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="42" />
+      <option name="time" value="44" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -644,63 +636,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/organizer/MainOrganizerFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/organizer/CalendarInfPanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/organizer/TablePanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/organizer/DateInfPanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/javax/swing/table/DefaultTableColumnModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4369">
-          <caret line="293" column="0" selection-start-line="293" selection-start-column="0" selection-end-line="293" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/organizer/ButtonPanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="20" column="60" selection-start-line="20" selection-start-column="60" selection-end-line="20" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/organizer/OrganizerLab.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/organizer/MainOrganizerFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/organizer/CalendarInfPanel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -712,7 +647,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -762,7 +699,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -859,13 +798,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/organizer/model/DayCollection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/java/awt/AWTEventMulticaster.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4250">
@@ -890,110 +822,281 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/organizer/AddNoteDialog.java">
+    <entry file="file://$PROJECT_DIR$/src/organizer/AddNoteListener.java" />
+    <entry file="file://$PROJECT_DIR$/OrganizerLab.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/organizer/AddNoteListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="24" column="63" selection-start-line="24" selection-start-column="63" selection-end-line="24" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/organizer/ButtonPanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/organizer/model/TimeTableModel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1581">
-          <caret line="106" column="1" selection-start-line="106" selection-start-column="1" selection-end-line="106" selection-end-column="1" />
+        <state relative-caret-position="731">
+          <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/javax/swing/AbstractButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="2021" column="0" selection-start-line="2021" selection-start-column="0" selection-end-line="2021" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#111030#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#9995#9996#0" expanded="false" />
+            <element signature="e#10032#10033#0" expanded="false" />
+            <element signature="e#10166#10167#0" expanded="false" />
+            <element signature="e#10193#10194#0" expanded="false" />
+            <element signature="e#11258#11259#0" expanded="false" />
+            <element signature="e#11299#11300#0" expanded="false" />
+            <element signature="e#12221#12222#0" expanded="false" />
+            <element signature="e#12248#12249#0" expanded="false" />
+            <element signature="e#14664#14665#0" expanded="false" />
+            <element signature="e#14736#14737#0" expanded="false" />
+            <element signature="e#14880#14881#0" expanded="false" />
+            <element signature="e#14914#14915#0" expanded="false" />
+            <element signature="e#16617#16618#0" expanded="false" />
+            <element signature="e#16651#16652#0" expanded="false" />
+            <element signature="e#17687#17688#0" expanded="false" />
+            <element signature="e#17722#17723#0" expanded="false" />
+            <element signature="e#19179#19180#0" expanded="false" />
+            <element signature="e#19214#19215#0" expanded="false" />
+            <element signature="e#20391#20392#0" expanded="false" />
+            <element signature="e#20434#20435#0" expanded="false" />
+            <element signature="e#26036#26037#0" expanded="false" />
+            <element signature="e#26076#26077#0" expanded="false" />
+            <element signature="e#27748#27749#0" expanded="false" />
+            <element signature="e#27790#27791#0" expanded="false" />
+            <element signature="e#29687#29688#0" expanded="false" />
+            <element signature="e#29730#29731#0" expanded="false" />
+            <element signature="e#31224#31225#0" expanded="false" />
+            <element signature="e#31269#31270#0" expanded="false" />
+            <element signature="e#33029#33030#0" expanded="false" />
+            <element signature="e#33063#33064#0" expanded="false" />
+            <element signature="e#36388#36389#0" expanded="false" />
+            <element signature="e#36446#36447#0" expanded="false" />
+            <element signature="e#40368#40369#0" expanded="false" />
+            <element signature="e#40397#40398#0" expanded="false" />
+            <element signature="e#42031#42032#0" expanded="false" />
+            <element signature="e#42059#42060#0" expanded="false" />
+            <element signature="e#45826#45827#0" expanded="false" />
+            <element signature="e#45862#45863#0" expanded="false" />
+            <element signature="e#48150#48151#0" expanded="false" />
+            <element signature="e#48185#48186#0" expanded="false" />
+            <element signature="e#48840#48841#0" expanded="false" />
+            <element signature="e#48874#48875#0" expanded="false" />
+            <element signature="e#50443#50444#0" expanded="false" />
+            <element signature="e#50476#50477#0" expanded="false" />
+            <element signature="e#51568#51569#0" expanded="false" />
+            <element signature="e#51608#51609#0" expanded="false" />
+            <element signature="e#53193#53194#0" expanded="false" />
+            <element signature="e#53231#53232#0" expanded="false" />
+            <element signature="e#54315#54316#0" expanded="false" />
+            <element signature="e#54346#54347#0" expanded="false" />
+            <element signature="e#58957#58958#0" expanded="false" />
+            <element signature="e#58993#58994#0" expanded="false" />
+            <element signature="e#61731#61732#0" expanded="false" />
+            <element signature="e#61774#61775#0" expanded="false" />
+            <element signature="e#61950#61951#0" expanded="false" />
+            <element signature="e#61978#61979#0" expanded="false" />
+            <element signature="e#63730#63731#0" expanded="false" />
+            <element signature="e#63766#63767#0" expanded="false" />
+            <element signature="e#66497#66498#0" expanded="false" />
+            <element signature="e#66554#66555#0" expanded="false" />
+            <element signature="e#66720#66721#0" expanded="false" />
+            <element signature="e#66780#66781#0" expanded="false" />
+            <element signature="e#67125#67126#0" expanded="false" />
+            <element signature="e#67195#67196#0" expanded="false" />
+            <element signature="e#68197#68198#0" expanded="false" />
+            <element signature="e#68254#68255#0" expanded="false" />
+            <element signature="e#69107#69108#0" expanded="false" />
+            <element signature="e#69177#69178#0" expanded="false" />
+            <element signature="e#69476#69477#0" expanded="false" />
+            <element signature="e#69511#69512#0" expanded="false" />
+            <element signature="e#70380#70381#0" expanded="false" />
+            <element signature="e#70432#70433#0" expanded="false" />
+            <element signature="e#73943#73944#0" expanded="false" />
+            <element signature="e#73978#73979#0" expanded="false" />
+            <element signature="e#74030#74031#0" expanded="false" />
+            <element signature="e#74065#74066#0" expanded="false" />
+            <element signature="e#74647#74648#0" expanded="false" />
+            <element signature="e#74679#74680#0" expanded="false" />
+            <element signature="e#75000#75001#0" expanded="false" />
+            <element signature="e#75030#75031#0" expanded="false" />
+            <element signature="e#75227#75228#0" expanded="false" />
+            <element signature="e#75282#75283#0" expanded="false" />
+            <element signature="e#75473#75474#0" expanded="false" />
+            <element signature="e#75531#75532#0" expanded="false" />
+            <element signature="e#75866#75867#0" expanded="false" />
+            <element signature="e#75934#75935#0" expanded="false" />
+            <element signature="e#83435#83436#0" expanded="false" />
+            <element signature="e#83485#83486#0" expanded="false" />
+            <element signature="e#89488#89489#0" expanded="false" />
+            <element signature="e#89523#89524#0" expanded="false" />
+            <element signature="e#89919#89920#0" expanded="false" />
+            <element signature="e#89954#89955#0" expanded="false" />
+            <element signature="e#90263#90264#0" expanded="false" />
+            <element signature="e#90295#90296#0" expanded="false" />
+            <element signature="e#92244#92245#0" expanded="false" />
+            <element signature="e#92293#92294#0" expanded="false" />
+            <element signature="e#92478#92479#0" expanded="false" />
+            <element signature="e#92527#92528#0" expanded="false" />
+            <element signature="e#107793#107794#0" expanded="false" />
+            <element signature="e#107828#107829#0" expanded="false" />
+            <element signature="e#108058#108059#0" expanded="false" />
+            <element signature="e#108125#108126#0" expanded="false" />
+            <element signature="e#108370#108371#0" expanded="false" />
+            <element signature="e#108428#108429#0" expanded="false" />
+            <element signature="e#109077#109078#0" expanded="false" />
+            <element signature="e#109133#109134#0" expanded="false" />
+            <element signature="e#109380#109381#0" expanded="false" />
+            <element signature="e#109420#109421#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_74/src.zip!/com/sun/org/apache/xalan/internal/xsltc/trax/TransformerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="430" column="13" selection-start-line="430" selection-start-column="13" selection-end-line="430" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/c.xml" />
+    <entry file="file://G:/two in day.xml" />
+    <entry file="file://G:/vd.xml" />
     <entry file="file://$PROJECT_DIR$/src/organizer/TablePanel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1513">
-          <caret line="95" column="29" selection-start-line="95" selection-start-column="29" selection-end-line="95" selection-end-column="29" />
-          <folding />
+        <state relative-caret-position="153">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/organizer/KeyDateObject.java">
+    <entry file="file://$PROJECT_DIR$/src/organizer/SaveFileListener.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="68">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/organizer/OrganizerLab.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/organizer/DateInfPanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/organizer/CalendarInfPanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="20" column="60" selection-start-line="20" selection-start-column="60" selection-end-line="20" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/organizer/CalendarPanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1632">
-          <caret line="116" column="42" selection-start-line="116" selection-start-column="42" selection-end-line="116" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/organizer/CommonDialog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="38" column="35" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/organizer/OpenFileListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/organizer/model/DayCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/organizer/MainOrganizerFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="136">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/organizer/KeyDateObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/organizer/EditNoteDialog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+        <state relative-caret-position="153">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/organizer/DateInfPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/organizer/CommonDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/organizer/CalendarPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/organizer/CalendarInfPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/organizer/ButtonPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/organizer/AddNoteDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="63" selection-start-line="21" selection-start-column="63" selection-end-line="21" selection-end-column="63" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -9,9 +9,6 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
 
-/**
- * Created by Katerina on 27.09.2016.
- */
 public class DateInfPanel extends JPanel{
     private final int DEFAULT_WIDTH = 510;
     private final int DEFAULT_HEIGHT = 60;

@@ -9,9 +9,6 @@ import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-/**
- * Created by Katerina on 24.10.2016.
- */
 public class AddNoteDialog extends CommonDialog {
 
     public AddNoteDialog(final JFrame owner,  DayCollection model, KeyDateObject key, String dayTime, TablePanel tablePanel){
@@ -28,6 +25,7 @@ public class AddNoteDialog extends CommonDialog {
                 model.get(key).addNoteTime(newNote);
             } else {
                 TimeTableModel newTable = new TimeTableModel();
+                newTable.setKeyDate(key);
                 model.put(key, newTable);
                 newTable.addNoteTime(newNote);
             }

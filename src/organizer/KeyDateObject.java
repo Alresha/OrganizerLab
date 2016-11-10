@@ -1,8 +1,5 @@
 package organizer;
 
-/**
- * Created by Katerina on 12.10.2016.
- */
 public class KeyDateObject {
     private Object day;
     private String month;

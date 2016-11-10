@@ -11,9 +11,6 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-/**
- * Created by Katerina on 25.09.2016.
- */
 public class MainOrganizerFrame extends JFrame {
 
     private final int DEFAULT_WIDTH = 900;
@@ -29,6 +26,8 @@ public class MainOrganizerFrame extends JFrame {
     private JButton newNoteButton = new JButton("New");
     private JButton editNoteButton = new JButton("Edit");
     private JButton deleteNoteButton = new JButton("Delete");
+    private JButton saveCollectionButton = new JButton("Save");
+    private JButton openCollectionButton = new JButton("Open");
 
     ListSelectionModel rowSelectionModel = calendarPanel.calendarTable.getSelectionModel();
     ListSelectionModel columnSelectionModel = calendarPanel.getColModel().getSelectionModel();
@@ -49,6 +48,8 @@ public class MainOrganizerFrame extends JFrame {
         buttonPanel.add(newNoteButton);
         buttonPanel.add(editNoteButton);
         buttonPanel.add(deleteNoteButton);
+        buttonPanel.add(saveCollectionButton);
+        buttonPanel.add(openCollectionButton);
 
         setLocationRelativeTo(null);
 
@@ -116,7 +117,8 @@ public class MainOrganizerFrame extends JFrame {
         }
 
         });
+        saveCollectionButton.addActionListener(new SaveFileListener(model));
+        openCollectionButton.addActionListener(new OpenFileListener(model));
     }
 
-    public TablePanel getDayTablePanel() {return this.dayTablePanel;}
 }

@@ -14,6 +14,7 @@ public class TimeTableModel extends AbstractTableModel {
 
     private final int DAYTIME_COLUMN = 0;
     private final int NOTES_COLUMN = 1;
+    private KeyDateObject keyDateObject;
 
     private String[] dayTimeNames = {"7-9", "9-11", "11-13", "13-15", "15-17", "17-19", "19-21"};
     private List<NoteTimeModel> notesPack = new ArrayList<NoteTimeModel>();
@@ -104,4 +105,11 @@ public class TimeTableModel extends AbstractTableModel {
         return returnedValue;
     }
 
+    public void setKeyDate(KeyDateObject key){
+        this.keyDateObject = key;
+    }
+
+    public KeyDateObject getKeyDateObject(){
+        return this.keyDateObject;
+    }
 }

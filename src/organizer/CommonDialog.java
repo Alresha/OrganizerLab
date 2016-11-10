@@ -7,9 +7,6 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-/**
- * Created by Katerina on 08.11.2016.
- */
 public class CommonDialog extends JDialog {
     protected final int DEFAULT_WIDTH = 300;
     protected final int DEFAULT_HEIGHT = 130;

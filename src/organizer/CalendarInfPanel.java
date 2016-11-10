@@ -4,9 +4,6 @@ import javax.swing.*;
 import javax.swing.table.DefaultTableCellRenderer;
 import java.awt.*;
 
-/**
- * Created by Katerina on 25.09.2016.
- */
 public class CalendarInfPanel extends JPanel {
 
     private final int DEFAULT_WIDTH = 300;
