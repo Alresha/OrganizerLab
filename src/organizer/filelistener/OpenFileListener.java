@@ -1,4 +1,4 @@
-package organizer;
+package organizer.filelistener;
 
 import java.awt.event.ActionListener;
 
@@ -6,6 +6,7 @@ import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
+import organizer.KeyDateObject;
 import organizer.model.DayCollection;
 import organizer.model.NoteModel;
 import organizer.model.NoteTimeModel;

@@ -1,5 +1,6 @@
-package organizer;
+package organizer.filelistener;
 
+import organizer.KeyDateObject;
 import organizer.model.DayCollection;
 
 import org.w3c.dom.Document;

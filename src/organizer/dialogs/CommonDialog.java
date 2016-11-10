@@ -1,4 +1,4 @@
-package organizer;
+package organizer.dialogs;
 
 import organizer.model.DayCollection;
 

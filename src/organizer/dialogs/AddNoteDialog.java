@@ -1,5 +1,7 @@
-package organizer;
+package organizer.dialogs;
 
+import organizer.KeyDateObject;
+import organizer.TablePanel;
 import organizer.model.DayCollection;
 import organizer.model.NoteModel;
 import organizer.model.NoteTimeModel;
@@ -11,7 +13,7 @@ import java.awt.event.ActionListener;
 
 public class AddNoteDialog extends CommonDialog {
 
-    public AddNoteDialog(final JFrame owner,  DayCollection model, KeyDateObject key, String dayTime, TablePanel tablePanel){
+    public AddNoteDialog(final JFrame owner, DayCollection model, KeyDateObject key, String dayTime, TablePanel tablePanel){
         super(owner, model, "Add Note");
 
     okButton.addActionListener(new ActionListener() {

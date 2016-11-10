@@ -1,5 +1,7 @@
-package organizer;
+package organizer.dialogs;
 
+import organizer.KeyDateObject;
+import organizer.TablePanel;
 import organizer.model.DayCollection;
 import organizer.model.NoteModel;
 import organizer.model.NoteTimeModel;
